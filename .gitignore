@@ -1,0 +1,53 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore environment & dependency files
+.venv/
+.env
+*.env
+Pipfile
+Pipfile.lock
+requirements.txt
+
+# Ignore Node.js dependencies
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Ignore logs and temporary files
+*.log
+*.out
+*.bak
+*.swp
+*.swo
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore system-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore MQTT and IoT data files
+*.db
+*.sqlite
+mqtt_logs/
+device_logs/
+
+# Ignore Raspberry Pi-related files (if applicable)
+*.elf
+*.bin
+*.hex
+*.o
