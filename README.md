@@ -11,16 +11,15 @@ An AI-powered smart home assistant for automation, voice control, and seamless i
 ✅ **Remote Access:** Control your home from anywhere via a web/app interface  
 
 ## 🛠️ Tech Stack  
-- **Programming Language:** Python / Node.js  
-- **AI & NLP:** OpenAI API / Rasa / Google Dialogflow  
-- **IoT Integration:** Raspberry Pi / Arduino / MQTT  
+- **Programming Language:** Python / html / CSS / Javascript  
+- **AI & NLP:** OpenAI API / Ollama  
+- **IoT Integration:** ESP32 / Arduino / MQTT  
 - **Database:** Firebase / MongoDB / SQLite  
 - **Voice Recognition:** Google Speech-to-Text / Whisper AI  
 
 ## 📦 Installation  
 ### **Prerequisites**  
-- Python 3.x installed  
-- Node.js & npm installed  
+- Python 3.x installed   
 - MQTT broker (e.g., Mosquitto)  
 
 ### **Setup Instructions**  
